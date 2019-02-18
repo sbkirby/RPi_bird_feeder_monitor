@@ -1,0 +1,6 @@
+{
+	"OIP_HOST": "10.0.0.211",
+	"MQTT_USER": "username",
+	"MQTT_PW": "password",
+	"MQTT_PORT": 1883
+}
