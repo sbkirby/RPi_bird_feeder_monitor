@@ -1,6 +1,7 @@
 # Bird Feeder Monitor V2.0
-![Main Photo 1](https://github.com/sbkirby/RPi_bird_feeder_monitor/blob/master/images/Cardinal%20on%20Feeder.jpg)
-![Main Photo 2](https://github.com/sbkirby/RPi_bird_feeder_monitor/blob/master/images/Bird%20Feeder%20Monitor%20Grafana%20Display.png)
+Bird Feeder | Grafana Display
+------------ | -------------
+![Main Photo 1](https://github.com/sbkirby/RPi_bird_feeder_monitor/blob/master/images/Cardinal%20on%20Feeder.jpg)|![Main Photo 2](https://github.com/sbkirby/RPi_bird_feeder_monitor/blob/master/images/Bird%20Feeder%20Monitor%20Grafana%20Display.png)
 
 This is a project to monitor, photograph and record the number and time spent by birds visiting our bird feeder. Multiple Raspberry Pi's (RPi) were used for this project. One was used as a capacitive touch sensor, Adafruit CAP1188, to detect, record and trigger the photographs of the birds feeding. Another RPi was configured to control the operation of this monitoring system, as well as store and maintain the data for monitoring and analysis. The last RPi was configured as a Camera to photograph each bird visiting the feeder.
 
